@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm devFlaco</h1>
 <h3 align="center">A full stack developer stundent</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flacov" alt="flacov" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML & CSS**
