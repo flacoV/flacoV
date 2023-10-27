@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm devFlaco</h1>
 <h3 align="center">A Full Stack Developer Student</h3>
- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4zeM.gif">
-
+ <img align="right" alt="Coding" width="400" src="./img/4zeM.gif">
 
 - 🔭 I’m currently working on [DEVCORD](https://flacov.github.io/devcord/)
 
