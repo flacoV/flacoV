@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm devFlaco</h1>
-<h3 align="center">A full stack developer stundent</h3>
+<h3 align="center">A Full Stack Developer Student</h3>
+ <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4zeM.gif">
 
-- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML & CSS**
+- 🔭 I’m currently working on [DEVCORD](https://flacov.github.io/devcord/)
+
+- 🌱 I’m currently learning **Sass**
+
+- 💬 Ask me about **HTML, CSS & BOOTSTRAP**
 
 - 📫 How to reach me **npressure00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/nopressure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nopressure" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
