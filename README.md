@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DEVCORD](https://flacov.github.io/devcord/)
 
-- 🌱 I’m currently learning **Sass**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML, CSS & BOOTSTRAP**
 
