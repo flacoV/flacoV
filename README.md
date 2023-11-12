@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML, CSS & BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS/SCSS & BOOTSTRAP**
 
 - 📫 How to reach me **npressure00@gmail.com**
 
