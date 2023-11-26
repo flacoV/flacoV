@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [DEVCORD](https://flacov.github.io/devcord/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML, CSS/SCSS & BOOTSTRAP**
+- 💬 Ask me about **HTML & CSS/SCSS**
 
 - 📫 How to reach me **npressure00@gmail.com**
 
