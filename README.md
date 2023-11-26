@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **npressure00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via discord:</h3>
 <p align="left">
- discord: nopressure
+ nopressure
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
