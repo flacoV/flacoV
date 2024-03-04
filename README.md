@@ -1,7 +1,7 @@
 
 # Hi, I am Francisco 👋 
 
-A 22yo full stack developer student from Argentina🇦🇷
+A 22yo full stack developer student from Argentina
 
 
 
