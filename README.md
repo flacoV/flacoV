@@ -5,7 +5,7 @@ A 22yo full stack developer student from Argentina
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **HTML & CSS/SCSS, Bootstrap & JS**
 
