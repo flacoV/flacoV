@@ -5,9 +5,9 @@ A 22yo full stack developer student from Argentina
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **HTML & CSS/SCSS, Bootstrap & JS**
+- 💬 Ask me about **HTML & CSS/SCSS, Tailwind & JS**
 
 - 📫 How to reach me **npressure00@gmail.com**
 
